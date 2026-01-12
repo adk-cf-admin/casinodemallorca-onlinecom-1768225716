@@ -1,0 +1,201 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#3D2C24",
+            "lang-select-color": "#222829",
+            "bg-light": "#3D2C24",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#F9F8FC",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#EA5B0C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#e90c38",
+            "yellow": "#EA5B0C",
+            "yellow-button": "#e90c38",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#3D2C24",
+            "faq-label": "#ffffff",
+            "bg-footer": "#3D2C24",
+            "copyright": "#e7e7d5",
+            "starColor": "#EA5B0C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Mallorca",
+            "title": "Casino de Mallorca: slots con jackpots, ruleta, blackjack, póker y restaurante S’hort",
+            "description": "Descubre Casino de Mallorca: juegos y mesas populares, ruleta electrónica con límites altos, slots con jackpots progresivos, torneos de póker y cash game, bar y restaurante S’hort, normas de acceso y cómo organizar una noche completa.",
+            "canonical": "casinodemallorca-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1540",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinodemallorca-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1541",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1542"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1544",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Mallorca Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Casino de Mallorca — juegos, jackpots, póker y ocio en Palma",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1545",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1546",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Reclamar bono",
+            "title": " Los mejores casinos",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": "Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": " Bonos",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Jackpots progresivos en slots: desde 10.000 €",
+                "Súper jackpot en slots: desde 40.000 €",
+                "Ruleta electrónica: apuestas hasta 10.000 €",
+                "Mesas iTable: partidas rápidas, hasta 1.025 €",
+                "Póker a diario: cash y torneos",
+                "Ubicación cómoda en Porto Pi",
+                "Restaurante S’hort y bar dentro"
+            ],
+            "advantagesAfterText": "Casino de Mallorca destaca por unir una sala moderna, tecnología de juego y una agenda de eventos muy activa. Es fácil organizar una noche completa: empezar en slots, pasar a las mesas y terminar con cena y cócteles. Además, la entrada es gratuita y las normas de acceso son claras.\n",
+            "knowMore": "Saber más",
+            "appTitle": "Casino de Mallorca App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1547",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Mallorca App",
+            "mobileGooglePlayImageTitle": "Casino de Mallorca App",
+            "mobileIosImageTitle": "Casino de Mallorca App"
+        },
+        "games": {
+            "playNowText": " Jugar ahora",
+            "title": "Los mejores juegos",
+            "allGames": "Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de Casino de Mallorca",
+                "description1": "Casino de Mallorca se diferencia por combinar límites altos con una zona electrónica moderna y mesas clásicas. Además, suele tener series de póker y eventos que convierten la visita en un plan nocturno completo.\n",
+                "items": [
+                    "Jackpot en slots: desde 40.000 €.",
+                    "Ruleta: máximo 10.000 €.",
+                    "Blackjack iTable: hasta 1.025 €."
+                ],
+                "description2": "Casino de Mallorca es un lugar donde una noche se convierte fácilmente en una combinación de juego, gastronomía y ambiente. Se siente la energía de un destino de ocio, pero con un estilo cuidado y cómodo para el visitante. El espacio está pensado para empezar en slots y pasar después a las mesas con total fluidez.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1548",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " Quien busca clásicos encuentra ruleta y blackjack, y quien prefiere cartas tiene opciones de póker. Para los amantes de la tecnología, hay propuestas electrónicas que hacen el ritmo más ágil. La experiencia se apoya en un acceso sencillo, normas claras y una distribución fácil de entender. Para descansar entre partidas, el bar y el restaurante aportan un plus real de comodidad. La agenda suele complementarse con eventos y noches temáticas que cambian el ambiente de un día a otro. Sirve tanto para una visita rápida como para una noche larga con varios planes en el mismo lugar. Es una opción ideal si buscas en Palma no solo juego, sino también un plan nocturno completo.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Mallorca: una noche con juego, cena y eventos",
+                "description": "<p>\nCasino de Mallorca recibe al visitante con un interior moderno y cuidado, donde la luz, la música y el diseño crean un ambiente dinámico para la noche. La sensación es de “elegancia relajada”: no es excesivamente formal, pero sí se nota el enfoque en la imagen y la comodidad. El espacio permite elegir ritmo, desde slots tranquilos hasta zonas más sociales con mesas. La distribución ayuda a moverse entre formatos sin cortar la experiencia, y la noche fluye de forma natural. Es un lugar al que se va por la emoción del juego y también por el plan completo.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a horarios, Casino de Mallorca resulta cómodo para planes tardíos: abre desde la mañana y concentra el ambiente fuerte por la tarde y la noche. Esa estructura encaja con quien pasa el día fuera y reserva el casino para el tramo nocturno. Algunas áreas pueden tener franjas distintas, de modo que mucha gente empieza en slots o propuestas electrónicas y luego salta a las mesas. Para quienes buscan clásicos, es clave que las mesas se activan cuando el ambiente ya está en su punto. Así, el casino funciona tanto para una visita rápida como para una noche larga.\n\n<\/p>\n<br>\n<p>\nLa zona de bar suele convertirse en el punto de pausa entre sesiones: tomar algo, conversar y volver al juego con otra energía. El restaurante S’hort suma valor porque transforma la visita en una salida completa, no en una simple parada de juego. Este formato gusta a parejas y grupos que quieren combinar azar, charla y cena. En la práctica, se puede plantear como “dos actos”: primero gastronomía y luego juego, o al revés. Para planes largos, tener cocina y bebidas dentro marca la diferencia.\n\n<\/p>\n<br>\n<p>\nSobre hoteles, Casino de Mallorca tiene la ventaja de estar rodeado de distintas opciones de alojamiento, desde hoteles urbanos hasta propuestas con aire más vacacional. Muchos prefieren dormir cerca para no depender del transporte nocturno y volver caminando o con un trayecto corto. Otros eligen el centro para combinar paseo, cena y luego un cierre de noche en el casino. Ese encaje lo convierte en parte de un descanso “mixto”, donde una sola noche cubre varios planes. Para visitantes, es un esquema especialmente práctico.\n\n<\/p>\n<br>\n<p>\nEl apartado de eventos y entretenimiento añade personalidad al lugar, porque la agenda suele incluir póker, noches temáticas y actuaciones, y en ocasiones formatos de comedia tipo monólogo. Estas propuestas cambian el ambiente y dan sensación de escenario nocturno, no solo de sala de juego. Para quien repite, es un motivo real para volver, ya que el contenido se renueva y la experiencia no se siente calcada. En conjunto, el juego queda respaldado por servicio, gastronomía y programación.\n\n<\/p>\n<br>\n<p>\nPor último, el componente de ventajas y fidelidad ayuda a que la experiencia sea más atractiva con el tiempo. En Casino de Mallorca existe Luckia Club, basado en acumular puntos con las visitas y canjearlos por beneficios. Normalmente se traduce en regalos, trato más personal y extras que elevan la comodidad general. Para quienes prefieren optimizar su ocio, el club convierte las visitas en algo más ventajoso y coherente. El resultado es un casino que cuida especialmente al cliente recurrente.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicio y dinero en Casino de Mallorca: personal, pagos y cobro de premios\n<\/h3>\n\n<p>\nEl personal de Casino de Mallorca suele organizar la atención para que el visitante se ubique rápido, desde el acceso y la recepción hasta la elección de juegos y normas en mesa. En sala se reparten funciones claras: recepción, caja, crupieres, asistencia en slots y servicio de bar y restaurante. El estilo de trato tiende a ser directo y cordial: explicar lo necesario, orientar y resolver dudas comunes sin complicar. En las horas de más afluencia se valora especialmente la buena organización y la rapidez. La idea del servicio es que incluso quien entra por primera vez se sienta cómodo.\n\n<\/p>\n<br>\n\n\n<p>\nEl idioma principal es el español, pero en una ciudad con turismo constante suele ser posible comunicarse también en inglés para cuestiones básicas como horarios, acceso, pagos o normas generales. Además, muchos juegos funcionan con señales y reglas internacionales, así que incluso con un nivel limitado de idioma la experiencia se mantiene clara. Si buscas detalles finos —procedimientos de póker, reglas específicas o condiciones de torneo— lo más práctico es consultarlo directamente con el personal. En la mayoría de situaciones, el equipo intenta facilitar la comunicación con explicaciones simples y terminología común. Esto es útil para visitantes que quieren evitar complicaciones.\n\n<\/p>\n<br>\n<p>\nLa moneda de uso en Casino de Mallorca es el euro, y en euros se manejan apuestas, compra de fichas y cualquier operación interna. El efectivo suele ser la opción más universal para jugar, por rapidez y por el funcionamiento habitual de caja. Para servicios complementarios como bar o restaurante, el pago con tarjeta suele ser habitual por comodidad del cliente. Aun así, puede haber diferencias según la zona, por lo que conviene separar “operaciones de juego” de “consumo gastronómico”. Con esa idea se gana tiempo y se evita confusión.\n\n<\/p>\n<br>\n<p>\nEn cuanto a cajeros y cambio de divisa, la zona del centro comercial y el entorno cercano suelen disponer de opciones para retirar efectivo. Si necesitas cambiar moneda, es más cómodo hacerlo en oficinas especializadas en la ciudad para llegar ya con euros. Dentro del casino la lógica suele ser simple: se juega en euros, por lo que llevar la divisa preparada evita interrupciones. Para una noche intensa, esa previsión ayuda a mantener el plan sin pausas. Preparar efectivo o el método de gasto antes de entrar hace la visita más fluida.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios en un casino presencial normalmente se gestiona en caja: se cambian fichas o tickets por efectivo, y para cantidades importantes puede solicitarse documentación y realizar verificaciones estándar. Este proceso es habitual por seguridad y control interno. En slots, el sistema suele trabajar con tickets que luego se canjean por dinero. En póker, según sea cash o torneo, existen procedimientos propios, pero el objetivo es el mismo: confirmar el resultado y abonar el premio. Cuanto mayor sea el importe, más importante es guardar tickets y justificantes.\n\n<\/p>\n<br>\n<p>\nEl tema fiscal depende del perfil del jugador y de cómo se registren los ingresos. En la práctica, el casino paga según su procedimiento y las obligaciones fiscales pueden recaer en el jugador según su residencia y normativa aplicable. Por eso, si el premio es relevante, conviene conservar documentación y asegurarse de que el cobro queda bien registrado. Para visitantes, un consejo práctico es llevar siempre pasaporte y estar listo para identificarse si el importe lo requiere. Así se evitan retrasos y se cierra la visita con tranquilidad.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nNormas para visitar Casino de Mallorca: vestimenta, acceso y cómo llegar\n<\/h3>\n\n<p>\nCasino de Mallorca es un casino presencial con reglas claras que ayudan a mantener un ambiente cómodo para todos. El acceso es solo para mayores de edad, por lo que la documentación y el registro básico en entrada son esenciales. La entrada suele ser gratuita, pero el acceso depende del cumplimiento del código de vestimenta y de las normas internas. La recomendación es un estilo “smart casual”: ropa cuidada, calzado adecuado y buena presencia. La ropa de playa y deportiva se considera inapropiada, especialmente por la noche. Dentro se espera un comportamiento respetuoso con el resto de jugadores. Las fotos y vídeos en zonas de juego suelen estar limitados para proteger la privacidad. En mesas existen reglas de apuesta y dinámica, y cualquier duda se resuelve con el personal. Si quieres cenar en el restaurante, conviene reservar en horas punta. Llegar es fácil en taxi o transporte público, y para quienes van en coche la cuestión del aparcamiento es importante. En el área de Porto Pi normalmente hay opciones de parking, a veces con un tramo gratuito según condiciones del recinto.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCódigo de vestimenta (recomendado):\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCamisa, polo o parte superior cuidada — encaja con el ambiente.\n\n<\/li>\n            <li>• \nPantalón, vaquero limpio, vestido o falda — mantiene un estilo de noche.\n\n<\/li>\n            <li>• \nCalzado cerrado — recomendable por acceso y comodidad.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCódigo de vestimenta (no permitido\/no recomendado):\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPantalón corto, bañador o ropa de playa — estilo claramente playero.\n\n<\/li>\n            <li>• \nChanclas o sandalias de playa — motivo frecuente de rechazo.\n\n<\/li>\n            <li>• \nRopa deportiva y camisetas sin mangas — no se ajustan al formato.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de visita:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSolo +18 y con documento vigente (para visitantes, normalmente pasaporte).\n\n<\/li>\n            <li>• \nRespeto a normas internas: comportamiento tranquilo y correcto.\n\n<\/li>\n            <li>• \nSeguir indicaciones del personal por seguridad y orden.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibiciones principales:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nIntentar entrar o jugar sin identificación válida.\n\n<\/li>\n            <li>• \nRomper reglas de mesa o interferir en el desarrollo de la partida.\n\n<\/li>\n            <li>• \nConductas agresivas o conflictos que molesten a otros.\n<\/li>\n            <li>• \nGrabaciones o fotos inadecuadas en áreas de juego.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAparcamiento y cómo llegar:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEn coche: acceso cómodo a Porto Pi y parking cercano, a veces con tiempo gratuito.\n\n<\/li>\n            <li>• \nEn taxi: opción rápida y práctica para la noche.\n\n<\/li>\n            <li>• \nEn autobús: líneas por el Paseo Marítimo y zona comercial, útil para visitantes.\n\n<\/li>\n            <li>• \nA pie: buena opción si te alojas cerca y quieres pasear antes de entrar.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckia Club en Casino de Mallorca: cómo funciona el programa de fidelidad\n<\/h3>\n\n<p>\nLuckia Club en Casino de Mallorca está pensado para quienes vuelven y quieren obtener ventajas reales por sus visitas. La idea es sencilla: te registras, utilizas tu tarjeta\/perfil en cada visita y acumulas puntos que luego puedes canjear por beneficios. Es un sistema acumulativo: cuanto más frecuentas el casino y más utilizas sus servicios, más opciones se abren. Resulta especialmente cómodo si combinas slots, mesas, bar y restaurante, porque el uso se integra de forma natural. Un punto importante es que el club no se centra solo en juego, sino también en comodidad: detalles, trato y acceso a experiencias. Para muchos, el valor está en convertir una salida normal en un plan más “redondo” y ventajoso. También aporta una sensación de reconocimiento y estatus. La dinámica es clara: acumular, canjear y disfrutar. Si visitas Casino de Mallorca varias veces, el club se vuelve mucho más interesante. Dentro del ecosistema Luckia el programa suele organizarse por niveles para diferenciar la frecuencia de visita. En la descripción corporativa de Luckia se mencionan tres categorías de tarjeta: Orange, Gold y Platinum, que funcionan como escalera de beneficios.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro\n<\/h4>\n\n <ul>\n            <li>• \nEdad: +18 y cumplir las normas generales de acceso.\n\n<\/li>\n            <li>• \nDocumento: identificación vigente (para visitantes, normalmente pasaporte).\n\n<\/li>\n            <li>• \nAlta: inscripción presencial con el personal, quedando activo el perfil de puntos.\n\n<\/li>\n            <li>• \nUso: asociar la actividad al perfil en cada visita para que el saldo se acumule bien.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles Luckia Club y cómo conseguirlos (3 niveles):\n\n\n<\/h4>\n\n <ul>\n            <li>• \nOrange — nivel inicial: acceso al programa y acumulación desde la primera visita.\n\n<\/li>\n            <li>• \nGold — para clientes habituales: más opciones de canje y prioridad de atención.\n\n<\/li>\n            <li>• \nPlatinum — para los más activos: conjunto de ventajas más completo y opciones personalizadas.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nParking gratis hasta 2 horas — beneficio práctico para quien llega en coche.\n\n<\/li>\n            <li>• \nRegalos y canje de puntos — convertir puntos en detalles y recompensas para mejorar la visita.\n\n<\/li>\n            <li>• \nExperiencias VIP — planes premium y mayor nivel de confort.\n\n<\/li>\n            <li>• \nCenas exclusivas — experiencias gastronómicas que convierten la noche en algo especial.\n\n<\/li>\n\t    <li>• \nAtención más personal — ayuda en organización y resolución rápida de gestiones.\n\n<\/li>\n\t    <li>• \nInvitaciones a eventos — acceso preferente a actividades con aforo limitado.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Casino de Mallorca",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos, premios y promociones en Casino de Mallorca\n<\/h3>\n\n<p>\nEn Casino de Mallorca una de las claves son las ventajas ligadas al juego: jackpots progresivos en la sala de slots, formatos electrónicos con límites altos y una actividad de póker muy viva. Para muchos, el gran atractivo es la posibilidad de llevarse un premio grande directamente jugando, sin depender de mecánicas complicadas, porque el foco está en la propia experiencia presencial. En slots aparecen bancos acumulativos que crecen y pueden convertirse en el momento estrella de la noche. La ruleta electrónica aporta un ritmo distinto: partidas rápidas, cambios de apuesta ágiles y dinamismo constante. El póker, por su parte, genera un ambiente competitivo, casi deportivo, especialmente cuando hay series o festivales. En esos periodos el casino se siente más activo y la visita parece un evento. Además del juego, el calendario suele incluir propuestas estacionales: noches temáticas, actuaciones y formatos de show que aportan emoción incluso a quien juega poco. Estas actividades ayudan a venir por el ambiente y luego probar mesas o slots. Para quien planifica, los calendarios de torneos y la agenda de eventos permiten elegir el día más interesante. Así, las promociones y “especiales” no son solo bonus, sino formas concretas de vivir el ocio. Funciona muy bien el plan combinado: evento, juego con jackpots y cierre con cena o cóctel.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nSúper jackpot Jin Ji Bao Xi: desde 40.000 €: línea de slots progresivas donde el bote es el gran objetivo.\n\n<\/li>\n            <li>• \nMighty Hammer progresivo: MEGA desde 10.000 €: multijuego progresivo orientado a premios grandes.\n\n<\/li>\n            <li>• \nRuleta electrónica Gold Club: apuestas de 0,20 € a 10.000 €: válida para principiantes y para quien busca límites altos, con ritmo rápido.\n\n<\/li>\n            <li>• \nBlackjack iTable: apuesta de 5 € a 1.025 €: experiencia ágil con componente tecnológico y control de apuesta.\n\n<\/li>\n\t    <li>• \nUltimate Texas Hold’em iTable: apuesta de 2 € a 115 €: formato de cartas con dinámica sencilla y entretenida.\n\n<\/li>\n\t    <li>• \nTorneos de póker con garantía: 100.000 € GTD (ejemplo de serie): el atractivo está en el bote garantizado y la estructura.\n\n<\/li>\n\t    <li>• \nBuy‑ins de torneo (ejemplos de agenda): 30 € + 10 €, 70 € + 30 €, 200 €, 270 € + 30 € — rango para elegir nivel.\n\n<\/li>\n\t    <li>• \nNoches de show y actuaciones: en ocasiones hay monólogos y eventos que suman un plus de espectáculo.\n\n<\/li>\n\t    <li>• \nSemanas temáticas de slots y jackpots: enfoque en ciertas máquinas con botes acumulativos como protagonistas.\n\n<\/li>\n\t    <li>• \nEventos especiales de póker (festivales\/series): varios días de torneos que crean sensación de “fiesta” de póker.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJuegos populares de Casino de Mallorca: clásicos y tecnología\n<\/h3>\n\n<p>\nCasino de Mallorca organiza su oferta para que cada tipo de jugador encuentre rápidamente su estilo. La puerta de entrada más universal suele ser la sala de slots, ideal tanto para principiantes como para quien busca jackpots. El gran punto a favor de los slots es el ritmo y la autonomía: eliges apuesta, duración y máquina sin depender de una mesa. Otro clásico muy buscado es la ruleta, que aporta ambiente y suele sentirse como el “centro” del casino cuando hay movimiento. El blackjack destaca por su mezcla de suerte y estrategia, porque permite tomar decisiones y sentir control. Para amantes de cartas, el póker añade un componente social y competitivo que cambia la energía de la noche. Además, el casino apuesta por soluciones electrónicas que agilizan partidas y amplían el rango de apuestas. Esto es ideal cuando quieres más manos, más giros y menos pausas. En conjunto, la selección se entiende fácil: slots y electrónica para ritmo, mesas para ambiente, póker para competición. Por eso el casino sirve tanto para una visita corta como para una noche completa. Y lo mejor es combinar: empezar en apuestas electrónicas, pasar a mesas en vivo y terminar con póker o “caza de jackpot”.\n\n<\/p>\n<br>\n\n\n<ul>\n            <li>• \nSlots \/ tragaperras: gran variedad de temáticas y mecánicas, con jackpots progresivos.\n\n<\/li>\n            <li>• \nJin Ji Bao Xi (slots con jackpot): línea centrada en bote alto y emoción de premio grande.\n\n<\/li>\n            <li>• \nMighty Hammer (progresivo): multijuego progresivo con botes de gran atractivo.\n\n<\/li>\n            <li>• \nRuleta americana: clásico del casino con apuestas simples o combinadas.\n\n<\/li>\n\t    <li>• \nRuleta electrónica Gold Club: ritmo rápido, interfaz individual y amplio rango de apuesta.\n\n<\/li>\n\t    <li>• \nBlackjack: equilibrio entre azar y estrategia frente al crupier.\n\n<\/li>\n\t    <li>• \nPoker Texas Hold’em (cash): táctica, lectura de rivales y juego con profundidad.\n\n<\/li>\n\t    <li>• \nPóker Caribeño: dinámica directa jugando contra la casa.\n\n<\/li>\n\t    <li>• \nFormatos iTable: apuestas electrónicas con ambiente “de mesa”, pensadas para agilidad y control.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas en Casino de Mallorca: mínimos y máximos por juego\n<\/h3>\n\n<p> \nEn Casino de Mallorca los rangos de apuesta son cómodos porque cubren tanto un estilo prudente como límites altos para quien busca juego más intenso. Los formatos electrónicos aportan mucha flexibilidad: puedes empezar con apuestas pequeñas y subir progresivamente. Las mesas iTable atraen por combinar ambiente con control electrónico del stake. Para quienes van a por jackpots, las líneas de slots suelen tener rangos definidos por máquina o conjunto. A continuación, una referencia práctica de mínimos y máximos para planificar tu presupuesto.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#EA5B0C; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego \/ formato  <\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mínimo<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Máximo<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica Gold Club<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack iTable (apuesta electrónica)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1.025 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em iTable<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">115 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots Jin Ji Bao Xi<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,08 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 88 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots Mighty Hammer<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,48 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">44 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEventos y entretenimiento en Casino de Mallorca: show, música y plan nocturno\n<\/h3>\n\n<p>\nCasino de Mallorca no es solo juego: a menudo funciona como un espacio de eventos donde la noche gira alrededor de una agenda. Cuando hay actuaciones, el ambiente cambia: la gente llega antes, se mueve más por el bar y vive la visita como una salida completa. Esto se nota especialmente en semanas de póker y días de torneos, cuando el casino se llena de energía competitiva. A esa base se suman elementos de show y actuaciones que ayudan a alternar juego con momentos de descanso. Es un formato perfecto para quien quiere unir azar, social y entretenimiento en un solo lugar.\n\n<\/p>\n<br>\n\n\n<p>\nLa parte más constante del entretenimiento suele estar ligada al póker y a noches temáticas. Los calendarios de torneos aportan continuidad: puedes elegir fecha, buy‑in y planificar con antelación. En series importantes, el interés crece incluso para quien no juega, porque el póker se vive como un espectáculo. Además, en la agenda aparecen formatos de escenario como monólogos, que aportan un toque de club y show. Ese enfoque hace que el casino sea atractivo para un plan nocturno sin desplazamientos.\n\n<\/p>\n<br>\n<p>\nEl “ritmo de noche” se percibe por la combinación de música, luces y horario tardío. En esas horas, bar y restaurante funcionan como segunda escena: pausa, celebración o simplemente disfrutar del ambiente. Casino de Mallorca puede sentirse distinto según el día, más tranquilo o más evento‑centrado. Para el visitante es una ventaja, porque puede elegir la experiencia que busca. Y si quieres una noche especialmente intensa, lo ideal es coincidir con show o con series de torneos.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nTorneos y series de póker: eventos regulares con formatos y niveles variados.\n\n<\/li>\n            <li>• \nFestivales de póker: varios días de actividad con sensación de gran cita.\n\n<\/li>\n            <li>• \nMonólogos y comedia: actuaciones que suman espectáculo a la noche.\n\n<\/li>\n            <li>• \nMúsica en directo (según agenda): ambiente y energía para el tramo nocturno.\n\n<\/li>\n\t    <li>• \nNoches temáticas: enfoque en un juego o en una atmósfera concreta.\n\n<\/li>\n\t    <li>• \nPrograma de bar: coctelería y zona social entre sesiones.\n\n<\/li>\n\t    <li>• \nActividades en sala de slots: protagonismo de jackpots y máquinas destacadas.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBares, restaurante y descanso en Casino de Mallorca: una noche cómoda\n<\/h3>\n\n<p>\nEl descanso en Casino de Mallorca se apoya en una idea clara: el juego no debería cansar, por eso es importante tener “pausas” dentro del mismo espacio. La zona de bar permite parar entre sesiones, cambiar el ritmo y volver a slots o mesas con otra energía. Esto funciona muy bien en grupos: unos juegan, otros conversan y luego se reencuentran. Por la noche, esa dinámica convierte el casino en un punto de encuentro completo, no solo en una sala de juego. Para visitantes es una ventaja, porque no hace falta buscar otro bar después.\n\n<\/p>\n<br>\n\n\n<p>\nEl restaurante S’hort añade un componente gastronómico y hace que la visita se sienta más especial. Es ideal si quieres empezar con cena y luego jugar, o cerrar la noche con un buen plato tras una sesión intensa. También encaja con un ritmo más relajado: puedes pasar tiempo en mesa, charlar y luego elegir el juego que mejor te apetezca. Combinado con el bar, el plan queda muy completo. Y lo mejor es que todo está en el mismo lugar, lo que simplifica la noche.\n\n<\/p>\n<br>\n<p>\nSobre hoteles, la lógica es sencilla: Casino de Mallorca encaja perfecto si te alojas cerca o si quieres un acceso rápido en horario nocturno. En la zona suele haber opciones de diferentes categorías, desde hoteles urbanos más accesibles hasta propuestas con aire más vacacional. Muchos prefieren dormir en los alrededores para evitar desplazamientos largos al salir tarde. Otro plan habitual es alojarse en el centro y venir al casino para el tramo nocturno, combinándolo con paseo y cena. En ambos casos, el casino se integra en un descanso cómodo, sin complicaciones logísticas.\n\n<\/p>\n<br>\n<p>\nEn cuanto al “descanso dentro”, la experiencia se construye alternando espacios y ritmos. Puedes combinar sala de slots, mesas, bar y restaurante sin salir del ambiente. Para muchos, ese es el formato ideal: emoción dosificada, variedad y menos fatiga. Es especialmente agradable si no te obsesionas con un solo juego y te permites cambiar de escena. Casino de Mallorca lo facilita.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nRestaurante S’hort: cena y formato de salida completa, perfecto para inicio o cierre.\n\n<\/li>\n            <li>• \nBar del casino: bebidas y pausa social entre sesiones.\n\n<\/li>\n            <li>• \nSala de slots: ritmo autónomo, ideal para jugar por tramos.\n\n<\/li>\n            <li>• \nZona de mesas: parte más social con ambiente de casino clásico.\n\n<\/li>\n\t    <li>• \nPausas\/lounges entre áreas: cambio de escena sin salir del recinto.\n\n<\/li>\n\t    <li>• \nHoteles cercanos (zona Porto Pi\/paseo marítimo): cómodos para volver tarde.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": "¿Hace falta registrarse con antelación para jugar a slots?",
+                    "answer": "Normalmente basta con el control de acceso y llevar identificación; no suele requerirse registro previo específico.\n\n\n"
+                },
+                {
+                    "title": "¿Puedo cambiar fichas por dinero en cualquier momento?",
+                    "answer": "Generalmente sí, en caja; para importes altos pueden solicitar identificación y verificaciones internas.\n\n\n"
+                },
+                {
+                    "title": "¿Es adecuado Casino de Mallorca para principiantes?",
+                    "answer": "Sí, porque slots y formatos electrónicos son fáciles de iniciar, y el personal puede orientar en normas básicas si se juega con moderación.\n\n\n"
+                },
+                {
+                    "title": "¿Qué hago si pierdo un ticket de una máquina?",
+                    "answer": "Lo importante es avisar de inmediato al personal o seguridad, indicando hora y ubicación; la solución depende del procedimiento interno.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1549",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Mallorca"
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}

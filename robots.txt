@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinodemallorca-online.com/
+Sitemap: https://casinodemallorca-online.com/sitemap.xml
